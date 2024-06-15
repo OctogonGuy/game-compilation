@@ -1,0 +1,96 @@
+turn / board configuration / possible moves
+2
+b b b w e e e w w
+0 1 1 0,0 1 1 1,0 2 1 2
+
+2
+b b b e w e w e w
+0 0 1 0,0 0 1 1
+
+4
+b e b b w e e e w
+1 0 2 0,0 0 1 1,0 2 1 1,0 2 1 2
+
+4
+e b b w b e e e w
+0 1 1 0,1 1 2 1,0 2 1 2
+
+4
+b e b w w e e w e
+0 0 1 1,0 2 1 1,0 2 1 2
+
+4
+b b e w e w e e w
+0 1 1 0,0 1 1 1,0 1 1 2
+
+4
+e b b e b w w e e
+1 1 2 0,0 1 1 2,1 1 2 1
+
+4
+e b b b w w w e e
+0 2 1 1,0 1 1 2
+
+4
+b e b b e w e w e
+1 0 2 0,1 0 2 1
+
+4
+b b e w w b e e w
+0 1 1 0,0 0 1 1
+
+4
+e b b e w e e e w
+0 2 1 1,0 2 1 2
+
+4
+e b b e w e w e e
+0 2 1 1,0 2 1 2
+
+4
+b e b w e e e e w
+0 2 1 2
+
+6
+e e b b b w e e e
+1 0 2 0,1 1 2 1
+
+6
+b e e w w w e e e
+0 0 1 1
+
+6
+e b e b w w e e e
+1 0 2 0,0 1 1 2
+
+6
+e b e w w b e e e
+0 1 1 0,1 2 2 2
+
+6
+b e e b b w e e e
+1 0 2 0,1 1 2 1
+
+6
+e e b w b b e e e
+1 1 2 1,1 2 2 2
+
+6
+e e b b w e e e e
+1 0 2 0,0 2 1 1,0 2 1 2
+
+6
+e b e w b e e e e
+0 1 1 0,1 1 2 1
+
+6
+e b e e b w e e e
+1 1 2 1,0 1 1 2
+
+6
+b e e b w e e e e
+1 0 2 0,0 0 1 1
+
+6
+e e b e w b e e e
+0 2 1 1,1 2 2 2

@@ -1,0 +1,251 @@
+00
+Start
+\tYou wake up in the middle of a glade with no memories of who you are or how you got there. You turn your head and see some smoke billowing in the distance. You could find someone there, but they might not be friendly. In the opposite direction, you see a rough path into the forest.
+
+01
+Head toward the smoke
+\tAs you walk closer, you start to see the source of the smoke: A campfire by which an old man is silently sitting.
+
+02
+Follow the path
+\tAfter following the trail for a short while, you come to a fork in the road. The path heading left gradually fades into darkness. From the path heading right, you can hear sounds.
+
+03
+Approach the man
+\tYou approach the man and greet him.\n\tWithout meeting your gaze, he responds 'A visitor? What are you doing all the way out here?'\n\tBefore you can answer, a band of brigands ambush the campsite. Looking around frantically, you spot a large tree not too far behind you. 
+
+04
+Do not approach the man
+\tYou decide to stay where you are for now and scope the situation. In the distance, you see a group of people ambush the man, when all of a sudden lightning rains from the sky and strikes them dead.
+
+05
+Take the left path
+\tAs you proceed through the darkness, your surroundings become harder to make out. However, you can see in the distance a small entrance to a grotto tucked among the trees. As you get closer, you also notice the faint sounds of shrieking, gurgling, and squelching.
+
+06
+Take the right path
+\tAs you continue along the path, the sound of rushing water becomes clearer and clearer. You may continue along the path toward the sound, but you also notice a path branching left on which you notice footprints, the likes of which you havenever seen before.
+
+07
+Hide behind the tree
+\tYou hide behind the tree, but instead of following suit, the old man remains there, sitting in front of the campfire. A brigand charges toward him. Suddenly, the old man calls down a thunderbolt from the sky and strikes down the attacker. While you stand there stunned, he wipes out the entire enemy party.\n\t'What was that?' you ask in amazement. 'That was magic,' he responds. 'I am called Gandalf.'\n\t'Gandalf? That Gandalf?' you ask.\n\t'You know of me? Great! And who might you be?' You explain your situation. 'Ah. In that case, Silvershire in the East may hold the answers you seek. I myself am heading West.
+
+08
+Run away
+\tYou attempt to run away, but instead, you run into one of the brigands.\n\t'Heh,' he says. 'You're coming with us.'\n\tYou are taken to their camp, where criminals from across the realm come to rob and pillage. 'So, wealking,' your captor says. 'I will make you an offer. Join us. If you accept, you can live with us and share in our plunders. If you refuse, well, no one can guarantee your safety.'
+
+09
+Approach the campsite
+\tYou approach the campsite, but when you get there, you find it deserted; however, on a tree stump, you find a handwritten note. You read it:\n\t'I noticed you standing there apprehensively. If you are lost, the queen regent may hold the answers you seek. Follow the path North, and you all will be made clear.
+
+10
+Walk away
+\tYou take another path, and after a while, you start to see a castle in the distance. You keep walking, and to the left, you see a quaint little cottage.
+
+11
+Enter the hidden grotto
+\tImmediately after you enter the grotto, a swarm of giant bats rains down on you.\n\tYou try to fight your way through the horde of bats, when all of a sudden you fall into a pool of water. You are safe for now, but you can't hold your breath forever. You look around and find an opening to an underwater tunnel inside the pool. That may be a way to escape, but it could be risky as there is no way of knowing when you will next find air.
+
+12
+Follow the sounds
+\tYou approach the sounds and come across a band of monsters, creatures, and fiends. One notices you, grabs you up in its tentacles, and squeezes the life out of you.\n\t'We will dine well tonight,' it says.
+
+13
+Continue along the path toward the sounds
+\tYou arrive at a flowing river, and across the river you see a small cottage built into the side of a hill. There are enough trees around to be able to build a raft, or you may simply try to swim across.
+
+14
+Take the branching path with the footprints
+\tAfter following the footprints for a while, you see a makeshift spear lying against a tree. Someone has been here recently. You take it with you just in case.\n\tYou continue to follow the footprints, and you eventually reach a small pond. At first, you feel at ease. Then, look for where the tracks lead, your heart stops. Standing there, on the other side of the pond, is a creature that appears to be half-man and half-bull. It glares over at you, and you are stricken with fear.
+
+15
+Head West with Gandalf
+\tYou travel Westward with Gandalf for a few days, when you finally reach a castle.\n\t'The syndicate have installed a fake king who forces the common people to do hard labor and imprisons any who opposes their interests. They are corrupt and we must put a stop to this before it is too late. Now, how shall we get in?
+
+16
+Head East by yourself
+\tYou journey East to a small village on the outskirts of the kingdom. As instructed by Gandalf, you seek out the village elder, who tells you a story:\n\t'One thousand years ago, the great Etior prophecised gates to other worlds would open up, letting in horrors of unprecedented magnitude, and a hero from another world would arise to save the kingdom from destruction. You are the chosen one. Only you can step through the portal of truth, which will allow you to travel through spacetime and prevent our doom from occuring. Of course, this will allow you travel back to your world as well. But once you step through it, you cannot go back.'
+
+17
+Accept
+\t'That's what we like to hear. As it so happens, our next raid is happening... now!' You hear a bell toll, and many outlaws crowd at the entrance of the settlement. He puts you on a horse as all the others off and you all ride to a nearby village. Once you reach the outskirts, everyone halts and waits off in the bushes, out of view. 'Now's your chance to prove yourself to us, newbie. In that hut up yonder is the chieftan. Cut off the head of the snake, and the body will follow.' He hands you a knife. Apprehensively, you approach the hut and look through a window. You can see the chieftan in there, sleeping peacefully, defenseless.
+
+18
+Refuse
+\t'Suit yourself,' he says before he knocks you out.\n\tYou later wake up in a jail cell with another prisoner. 'Psst,' he whispers, eyeing the guard, who is asleep. 'Let's break out of here.'
+
+19
+Go North
+\tYou head North as per the instructions, and you come upon a church. Inside the church, a priest stands at the altar. 'I have been expecting you.'\n\t'You... have? Wait, who are you?'\n\t'You are lost, yes? I can help you.'
+
+20
+Go South
+\tFor some reason, you go in the opposite direction you were instructed to. In fact, there is no path or anywhere for you to follow, so you end up wandering through the woods for days. After a week, lost, tired, and hungry, you resign yourself to your fate, when suddenly, a pack of wolves approach. One approaches you, curiously. You close your eyes and brace. You wait for a while, and nothing happens. Then, the wolf starts licking you.
+
+21
+Knock on the front door of the cottage
+\tYou knock on the door and out comes a young man with spiky yellow hair and a giant sword. 'You!' he says. 'You must help me take down the evil megacorporation Shinra before they destroy the planet!'\n\tThe man, named Cloud, takes you to meet his band of allies and tells you about the untimely death of his lover, Aerith, and that he wants to avenge her death by defeating her killer, Sephiroth. You travel the planet together, getting stronger, and you finally make it to the planet's core, where Sephiroth is waiting.
+
+22
+Keep heading toward the castle
+\tWhen you make it to the castle, the king greets you and tells you that his daughter has been kidnapped by one of his former knights. He asks if you could rescue her.
+
+23
+Go through the underwater tunnel
+\tYou make your way through the tunnel, and your breath is running out. Luckily, you see a light at the tunnel. You reach the end and find yourself in another pool. You swim to the surface and climb to land. You look forward and gasp in amazement. You are underground, but there are houses, shops, streets, and people walking around.\n\tTwo men, who look like guards, promptly approach you. 'Who are you? State your business,' they command.\n\t'I don't know, and I come in peace,' you say.\n\tThey look at each other, confused. 'You're coming with us.'\n\tThe guards take you through the town and explain to you that the people here part of a faction that disobeyed the king's rule and are living in hiding.\n\tThey then tell you that they need someone with outside knowledge to rule their land so that they may develop a plan to escape the country. They ask if you will be their leader.
+
+24
+Swim back to the surface
+\tYou swim up and reach the surface, but it seems the bats haven't taken notice. You bump into a sailboat which is attached to a small dock. Strange, you think to yourself. There is no body of water to sail from, so where did this boat come from. Maybe there used to be a long time ago but has since dried up.\n\tAs you ponder this, you notice a treasure chest closer to the pier! You are so enamored by the riches before you that you can't help but take a piece. Immediately, a large boulder comes barreling toward you.
+
+25
+Fight your way out
+\tYou punch one monster in the tentacle and kick another in the horn. One of them squeals and loosens its grip on you, allowing you to escape.
+
+26
+Talk your way out
+\t'I'm not really that tasty,' you explain. 'Plus, humans are poisonous to monsters. Unless you cook me in just the right way, you could actually get sick and die.'\n\tThe monsters look at each other, confused. 'Well,' one of them speaks up, 'how come none of us have ever died from eating humans before?'
+
+27
+Swim across
+\tYou dive in the river to swim across, but the current is too fast. You are being pulled You see a thin branch of a tree from the bank of the river you came from that you may grab onto but you also see a rock poking out of the river that you may use to block your way further.
+
+28
+Build a raft
+\tYou go around breaking branches you can find and using vine to lash pieces together. It takes over a day, but you finally build something you can use to float across. You plop it in the water and paddle to the other side.\n\tOnce you are across, you walk towards the house. Upon closer inspection, the door is a crack open, and no lights are on. It seems no one is home. You cautiously open the door to see what looks to be a letter on a table in the middle of the room. You pick it up, and a ring that you didn't notice before falls to the ground. It is a very pretty ring. You read the letter:\n\t'Frobo, my boy, I have entrusted this ring to you, but it is very dangerous, and under no circumstances must you put it on. You must throw it into Mt. Inferno and end this evil once and for all.'
+
+29
+Attack the creature with your spear
+\tYou successfully take down the foul creature with your spear. Not even a minute later, several more minotaurs come out of the woods and scream in horror. 'Gary!' one of them laments. 'My poor Gary. What have you done, human?'
+
+30
+Leave it alone
+\tYou try to remain calm as you slowly back away.\n\tBefore you get a chance to escape, the creature speaks to you: 'Hail traveler, I didn't mean to bother you.' Surprised and confused, you sit there stunned. He goes on to explain, 'I am a minotaur hailing from the Southern lands. I have come to the Spring of Hope to wish for peace, as my people have been at war with the humans for over a century, and the resulting casualties have been devastating for everyone. Would you like to offer up your prayers as well?'
+
+31
+Sneak in through the back of the armory
+\tYou enter the armory tiptoe as quietly as you can while the guards are facing away from you. Unfortunately, you aren't as quiet as you think you are, and the guards notice you. You close your eyes brace for the worst. Nothing comes.\n\tYou open them again, and finally, one of them says, 'Gods be good. I've been looking all over for you. Where is your uniform?' Before you get a chance to respond, he sighs. 'There's no helping you. Here, I have an extra one.'\n\tYou look to the door to see Gandalf wink at you and dash away. You never see him again. You live out the rest of your days as a guard in the castle.
+
+32
+Burst into the throne room guns ablaze
+\tYou walk into the throne room and see the false king on the throne. 'Who goes there?' he demands as he leaps from his seat.\n\t'Your end.' Gandalf comes in behind you and freezes him where he stands. 'Don't worry,' he says. 'He is not in any danger. He just cannot resist when we take him away.' After he says that, a group of allied foot soldiers enter and transfer him to a prison. 'Well, all's well that ends well 'Thank you for accompanying me on this journey. I hope you enjoy your stay here in my home as you find your way back to yours.'\n\tIndeed, after you rest up at the nearest town, you go on to have many adventures and, eventually, one final adventure that takes you back to your home on Earth.
+
+33
+Save the world
+\tYou take on the mantle of hero and vanquish the evils from the realm. You save the world from destruction. You cannot return to the present time, so you live out the rest of your days in this alternate dimension.
+
+34
+Return home
+\tYou decide you must return back home to the comforts you know and the people you love. You never learn what came of that other world.
+
+35
+Assassinate the chieftan
+\tYou sneak up on the chieftan and assassinate him in cold blood. You start to feel guilty, but the other brigands cheer you as they raid the rest of the village. You live out your days as a criminal, hiding from the law.
+
+36
+Warn the villagers
+\tYou run to one of the guards, who alerts the village warriors about the raid party. They fight valiantly, and while there were some casualties, the village fended off the rest of the brigands. Afterwards, you decide to live in this village for a while.
+
+37
+Escape
+\tThis stranger kicks the cell door down and you both sneak out and hop on a row boat, escaping into the sunset.
+
+38
+Stay
+\tYou decide that with a roof over your head, three meals a day, and a place to sleep, life could be worse. You live out what turns out to be the rest of your days in this tiny jail cell.
+
+39
+Ask for his help
+\t'It's dangerous to go alone. Here, take this.' He hands you a giant sword about twice your height. Surprisingly, you are able to wield it with little issue. You follow his instructions and go on a journey to discover yourself. The sword ends up coming in handy, and you vanquish many threats to the realm. You meet many people, hear their stories, and help them with their probelms. Along the way, you learn the value of hard work. You learn that sometimes, you have to go backward to go forward. You must choose your own path, but it is also wise to listen to others and heed their advice. You return the church and tell the priest about what you learned. 'That is the right answer,' he says. He then transforms into a portal that lets you return back to your own world. Weird.
+
+40
+Go off on a journey without help
+\tYou are not quite sure about this whole situation, so you decide to leave and find some answers for yourself. Not long after your departure, a giant slime monster touches you and you die... somehow.
+
+41
+Adopt the wolf as your pet
+\tYou decided that this wolf actually likes you, when in reality it was actually just hungry and was making sure you were tasty. It decided you were, and it chases you while you flee for your life.
+
+42
+Live as one of the pack
+\tYou decide to let yourself be adopted by this wolf pack and be raised by them, even though you're already a fully grown adult. You hunt with them, eat with them, and sleep with them for several weeks; however the carnivorous diet does not do your body wonders, and you eventually die from E. coli.
+
+43
+Join the fight against Sephiroth
+\tYou and Cloud fight go in and against a giant winged monster, which turns out to be Sephiroth himself. When you defeat him, he resurrects and turns into an even bigger and more powerful giant winged monster. With all your strength, you finally defeat this one, which reverts back into Sephiroth's original human form. Cloud then delivers the final blow, defeating him for good. You celebrate with your comrades that the evil is vanquished.
+
+44
+Stay out of the fight
+\tYou decided to pass on fighting Sephiroth. You wait outside of the core while Cloud and his friends Tifa and Barrett attempt to take him down. The minutes turn to hours. The hours turn to days. The path has been blocked, and no one has emerged. You and the rest of the party feel sorrowful, but cling to hope in your heart that they defeated the menace and saved the world.
+
+45
+Accept
+\tYou suit up and head to the shrine where he is holding her captive. You strike him down and retreat with the princess back to the castle.\n\t'Thank you for rescuing my daughter!' the king exclaims. 'The prophecies are true! You are the warrior of light!'\n\tYou saved the day and everyone lives happily ever after... except not. The evil kinght was actually resurrected and summoned four evil powers which you have to defeat as well if you want to really save the day.
+
+46
+Decline
+\t'Oh,' the king says. 'I guess you are just a regular person, after all. I hope someone else can do something to help my daughter.'
+
+47
+Accept and become their leader
+\tYou agree to be their leader. The people rejoice as they have been in these cramped walls for a long time with no way to escape.\n\tYou split your time between presiding over domestic issues and surveying the surface to gather new information. Eventually, you are able to lead an escape to the North, and the cave-dwellers are finally able to find solace.
+
+48
+Decline
+\tYou decline their offer to become their leader, but with no home of your own, you decide to stay there for a while. It is a nice little village. While many unknowns continue racking your mind, you are able to find a bit of reprieve with the cave-dwellers.
+
+49
+Run away from the boulder
+\tYou cannot outrun the boulder and you get squashed.
+
+50
+Run perpendicular to the boulder
+\tYou narrowly avoid the boulder by sidestepping out of the way of the boulder's trajectory. You have survived!\n\tIt turns out the treasure included millennia-old artifacts that were worth enough to never have to worry about money again. You live the rest of your days in this strange world in the lap of luxury.
+
+51
+Run
+\tRunning away, the large, slow, gluttonous creatures are not able to outpace you. You are free and live to have more adventures in this strange land.
+
+52
+Hide
+\tYou hide inside a large, hollow tree, waiting for them to give up on you and go away. Unfortunately, one of the monsters has a keen sense of smell and picks up on your scent. Before you have a chance to escape again, you are chopped up and gobbled down.
+
+53
+You got lucky
+\t'Are you kidding me? Do you know how lucky you are? Most monsters never eat humans and survive. But I am definitely poisonous.'\n\tThey agree to release you on the condition that you stay with them and help them distinguish future human captors from the impostors. This works for a while and saves a few people, but eventually, they start to get suspicous and eat you anyway.
+
+54
+They weren't humans
+\t'There is a race of creatures who disguise themselves as humans, who are not poisonous. You must of eaten them,' you say rather convincingly, if you do say so yourself.\n\t'Then how do we know you aren't one of them,' one retorts. You don't know what to say. Before you can think of anything, they cook you up and eat you.
+
+55
+Grab the tree branch
+\tOnce you are within reach, you leap out of the water and grab onto the branch, but the branch is too brittle, and it snaps, falling with you back into the river, and with nowhere else to turn, you drown.
+
+56
+Swim toward the rock
+\tFighting against the current, you do your best to position yourself in line with the boulder. It works. You hit the boulder, and you pull yourself up and climb on top of it. That was a close one, you think to yourself. You hop back to the bank of the river you were on before. Maybe building a raft would have been the best decision after all.
+
+57
+Destroy the ring
+\tYou venture out on a year-long trek to Mt. Inferno. Along the way, you meet many trusty companions who help defend against the journey's dangers with you. Once you finally reach the summit you drop the ring into the volcano and put an end to the great evil. You saved the world!
+
+58
+Wear the ring
+\tYou slip on the ring. You don't notice anything at first. A little underwhelmed, you sit there, waiting for something to happen, but nothing comes. It serves no purpose, but you don't want to take it off. Somehting about it is very enthralling. Over the coming days, you are more and more drawn in by the ring and start to obsess over it. Eventually, you cannot bear the possibility of anything happening to it, no matter how slim, so you escape to a nearby cave and hide there for your remaining days. You slowly descend into madness and can no longer tell fantasy from reality. But at least you have your good friend, the ring.
+
+59
+Own up to your mistake
+\tYou explain that you killed Gary. In retaliation, they kill you.
+
+60
+Blame his death on something else
+\tYou explain that you came upon some other human killed this minotaur, and that you scared him away so that no more harm would come to others. They thank you for avenging him and take you into their home, where they treat you as one of their own. You feel kind of guilty.
+
+61
+Pray with the minotaur
+\tYou pray at the spring with the minotaur.\n\t'Thank you very much, kind stranger,' he says. 'I would hate to ask more of you, but please come with me to my village and show them that there are still good humans out there.' \n\tYou go with him, and he introduces you to the villagers, who, while skeptical at first, are so impressed by your bravery, demand a ceasefire with the humans, who after a long deliberatoin accept \n\tAnd so, after 100 long years, the Human-Minotaur Wars have finally come to an end, and you are celebrated as the hero for years to come.
+
+62
+Refuse
+\t'Oh, I understand. I know how dangerous it would be if one of your human friends caught you mingling with a minotaur. Thank you anyway.'\n\tAs the minotaur turns to leave, he is struck by an arrow. You look up to see two hunters dressed in camoflauge staking out in the trees.\n\t'Thank you for leading us to the fiend. He's been terrifying the local villagers for days.'\n\tYou look back over at the minotaur, who is now retreating, but wounded.
